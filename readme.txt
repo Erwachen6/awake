@@ -1,2 +1,3 @@
-git is a good software.
-git is free to all of us.
+Git is a distributed version control system.
+Git is free software.
+
